@@ -1,0 +1,6 @@
+# Track only C++ source and header files in this learning repository.
+*
+!*/
+!*.cpp
+!*.h
+!.gitignore

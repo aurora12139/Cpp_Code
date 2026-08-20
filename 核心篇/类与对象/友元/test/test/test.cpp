@@ -18,7 +18,6 @@ using namespace std;
 
 */
 
-
 /*
 //全局函数做友元
 class Building

@@ -1,5 +1,0 @@
-﻿train.obj : error LNK2005: "public: int __thiscall circle::getR(void)" (?getR@circle@@QAEHXZ) 已经在 circle.obj 中定义
-train.obj : error LNK2005: "public: class point __thiscall circle::getcenter(void)" (?getcenter@circle@@QAE?AVpoint@@XZ) 已经在 circle.obj 中定义
-train.obj : error LNK2005: "public: void __thiscall circle::setR(int)" (?setR@circle@@QAEXH@Z) 已经在 circle.obj 中定义
-train.obj : error LNK2005: _main 已经在 test.obj 中定义
-D:\Cpp_Code\核心篇\类与对象\封装\test\Debug\test.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

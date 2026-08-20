@@ -5,7 +5,6 @@ C++¿ò¼Ü
 
 #include <iostream>
 using namespace std;
-
 int main()
 {
 

@@ -1,3 +1,0 @@
-﻿  test.cpp
-D:\Cpp_Code\核心篇\类与对象\C++对象模型和this指针\test\test\test.cpp(202,16): warning C4269: “p”: 用编译器生成的默认构造函数初始化的“const”自动数据产生不可靠的结果
-  test.vcxproj -> D:\Cpp_Code\核心篇\类与对象\C++对象模型和this指针\test\x64\Debug\test.exe
