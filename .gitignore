@@ -4,3 +4,4 @@
 !*.cpp
 !*.h
 !.gitignore
+!README.md
